@@ -6,5 +6,5 @@ This is a project to grow Himalaya app US users.
 
 | Channel        | Spend         | Install       | Signups       | CPI           | CPSU          |
 | -------------  | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Facebook (US)  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| GooglE（Global)| $60.26        | 0  | Content Cell  | Content Cell  | 0  |
+| Facebook (US)  | $79.74        | 8             | 4             | $9.97         | $19.94        |
+| GooglE (Global)| $60.26        | 80            | 0             | $0.75         | 0             |
