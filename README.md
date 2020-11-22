@@ -4,7 +4,7 @@ This is a project to grow Himalaya app US users.
 * Full presentation slide can be read here: [PowerPoint](https://github.com/ByronHan333/Himalaya-growth-marketing-campaign-result/blob/main/Himalaya%20Mobile%20Growth%20FB:Google%20result.pdf)
 * Result Summary
 
-| Spend         | Install       | Signups       | CPI           | CPSU          |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Channel        | Spend         | Install       | Signups       | CPI           | CPSU          |
+| -------------  | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Facebook (US)  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| GooglE（Global)| $60.26        | 0  | Content Cell  | Content Cell  | 0  |
