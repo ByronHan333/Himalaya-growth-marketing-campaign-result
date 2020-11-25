@@ -7,4 +7,4 @@ This is a project to grow Himalaya app US users.
 | Channel        | Spend         | Install       | Signups       | CPI           | CPSU          |
 | -------------  | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Facebook (US)  | $79.74        | 8             | 4             | $9.97         | $19.94        |
-| GooglE (Global)| $60.26        | 80            | 0             | $0.75         | 0             |
+| Google (Global)| $120.26       | 160           | na            | $0.75         | na            |
